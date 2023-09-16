@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles handles by chezmoi.
+My dotfiles handled by chezmoi.
