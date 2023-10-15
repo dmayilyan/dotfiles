@@ -24,6 +24,7 @@ yay python-scikit-learn
 yay python-seaborn
 yay python-ipywidgets
 yay python-plotly
+yay python-networkx
 # other tools
 yay flameshot
 yay zathura
