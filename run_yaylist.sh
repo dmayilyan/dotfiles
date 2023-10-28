@@ -27,6 +27,7 @@ yay python-plotly
 yay python-networkx
 # other tools
 yay flameshot
+yay fzf
 yay zathura
 yay texlive-bin
 yay texlive-basic
