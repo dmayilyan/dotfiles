@@ -17,6 +17,7 @@ yay signal
 yay python-pip
 yay jupyter-notebook
 yay python-black
+yay python-isort
 yay python-numpy
 yay python-pandas
 yay python-matplotlib
